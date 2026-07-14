@@ -1,0 +1,7 @@
+SpermYOLO contains modified source code derived from Ultralytics.
+Upstream project: https://github.com/ultralytics/ultralytics
+Upstream license: GNU Affero General Public License v3.0 (AGPL-3.0).
+
+This distribution intentionally retains only the YOLOv11/SpermYOLO object-
+detection runtime and the compatibility paths required to deserialize existing
+SpermYOLO detection checkpoints.

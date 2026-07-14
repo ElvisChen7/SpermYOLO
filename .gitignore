@@ -1,0 +1,25 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.cache
+
+# Native/build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.so
+*.dylib
+*.dll
+*.o
+
+# Training and prediction outputs
+runs/
+wandb/
+mlruns/
+
+# Local/editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp

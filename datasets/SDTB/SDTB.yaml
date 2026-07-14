@@ -1,0 +1,10 @@
+# Dataset files are distributed separately. Put them under this directory.
+train: images/train
+val: images/val
+test: images/test
+
+# number of classes
+nc: 1
+
+# Classes
+names: ['S']

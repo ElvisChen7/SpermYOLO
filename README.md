@@ -14,6 +14,11 @@ python -m pip install numpy opencv-python pillow pyyaml requests scipy pandas ma
 
 ## Data preparation
 
+Dataset access:
+
+- **SVIA (Subset-A):** [Figshare](https://doi.org/10.6084/m9.figshare.15074253.v1).
+- **SDTB:** [IEEE DataPort](https://ieee-dataport.org/documents/sdtb-dataset).
+
 Dataset files are not included. Place images and YOLO-format labels as follows:
 
 ```text
